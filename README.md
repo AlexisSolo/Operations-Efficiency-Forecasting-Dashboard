@@ -1,4 +1,4 @@
-CyberOps Command: Operations & Forecasting Dashboard
+# CyberOps Command: Operations & Forecasting Dashboard
 An interactive, futuristic dashboard for visualizing and analyzing operational efficiency and forecasting demand. Built with React, TypeScript, and Tailwind CSS, this application provides a "CyberOps" command center interface to monitor key order fulfillment metrics. It features animated backgrounds, glowing UI elements, and a responsive layout to create an immersive user experience.
 <img width="1366" height="695" alt="Operations Dashboard" src="https://github.com/user-attachments/assets/2e8acd88-4b8f-468e-aa04-e1d737e39854" />
 
