@@ -1,17 +1,24 @@
 CyberOps Command: Operations & Forecasting Dashboard
 An interactive, futuristic dashboard for visualizing and analyzing operational efficiency and forecasting demand. Built with React, TypeScript, and Tailwind CSS, this application provides a "CyberOps" command center interface to monitor key order fulfillment metrics. It features animated backgrounds, glowing UI elements, and a responsive layout to create an immersive user experience.
+<img width="1366" height="695" alt="Operations Dashboard" src="https://github.com/user-attachments/assets/2e8acd88-4b8f-468e-aa04-e1d737e39854" />
 
-![Operations Dashboard]([images/operations_dashboard.png](https://1drv.ms/i/c/96ba7930e3fa1138/EWdlYOJUR0tEnUyorfQADtcB7o1Bk-B8FEhYBZSRj_xK6Q?e=RC3uXo))
 
  Features
 Interactive Dashboard: A single-pane view of critical metrics in a sci-fi inspired interface.
+
 Key Metrics: Track Total Orders, Service-Level Compliance, and Average Processing Time with visually distinct "Metric Pods".
 Demand Forecasting: Visualize historical order volume against a simulated future forecast using an animated Recharts line chart.
+
 Categorical Analysis: An interactive donut chart displays order distribution by category, allowing for quick insights.
+
 Dynamic Filtering: Filter the entire dashboard's data by product category (Electronics, Apparel, etc.) or view an aggregation of all data.
+
 Detailed Data View: A separate "Order Details" tab presents a sortable and paginated table for inspecting individual orders.
+
 Futuristic UI/UX: A unique theme with an animated grid background, glowing effects, and custom-styled components to create a command center feel.
+
 Responsive Design: Fully responsive layout optimized for various screen sizes, from large monitors to mobile devices.
+
 Build-less Setup: Uses ES modules via esm.sh for a rapid, zero-config development experience.
  Tech Stack
 Framework: React 19
