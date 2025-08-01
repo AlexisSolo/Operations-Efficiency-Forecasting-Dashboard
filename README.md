@@ -1,3 +1,4 @@
+** Ops Console**
 This Operations Efficiency & Forecasting Dashboard, or "Ops Console," is a sophisticated command center designed for an operations analyst. It provides a clear, at-a-glance view of key performance metrics while also housing a powerful analytical engine to help you look into the future and uncover hidden inefficiencies in the workflow.
 Here’s a breakdown of how it works from an analyst's perspective:
 1. The Main Dashboard: Your Operational Vitals
