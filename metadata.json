@@ -1,0 +1,6 @@
+{
+  "name": "Operations Dashboard",
+  "description": "An interactive dashboard for analyzing operational efficiency and forecasting demand.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
